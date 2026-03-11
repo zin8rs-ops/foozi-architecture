@@ -1,0 +1,11 @@
+{
+  "color": {
+    "primary": "#1E6FFF",
+    "primary-hover": "#1558CC",
+    "background": "#FFFFFF",
+    "surface": "#F7F7F8",
+    "border": "#E5E7EB",
+    "text-primary": "#111827",
+    "text-secondary": "#6B7280"
+  }
+}
