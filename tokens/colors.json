@@ -1,11 +1,32 @@
 {
   "color": {
-    "primary": "#1E6FFF",
-    "primary-hover": "#1558CC",
-    "background": "#FFFFFF",
-    "surface": "#F7F7F8",
-    "border": "#E5E7EB",
-    "text-primary": "#111827",
-    "text-secondary": "#6B7280"
+
+    "brand": {
+      "primary": "#16A34A",
+      "secondary": "#0F766E"
+    },
+
+    "background": {
+      "base": "#F7F8FA",
+      "surface": "#FFFFFF",
+      "muted": "#F1F5F9"
+    },
+
+    "text": {
+      "primary": "#111827",
+      "secondary": "#6B7280",
+      "muted": "#9CA3AF"
+    },
+
+    "border": {
+      "default": "#E5E7EB",
+      "subtle": "#F1F5F9"
+    },
+
+    "status": {
+      "success": "#16A34A",
+      "warning": "#F59E0B",
+      "danger": "#DC2626"
+    }
   }
 }
