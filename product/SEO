@@ -1,0 +1,309 @@
+# Foozi – SEO Page Architecture
+
+Version: 1.0
+Status: Core Growth Infrastructure
+Owner: Product / SEO
+Last Updated: 2026-03-13
+
+---
+
+# Objective
+
+The SEO architecture enables Foozi to scale content across thousands of football matches, teams, and competitions.
+
+Goals:
+
+Generate search traffic
+Capture match-related search intent
+Create a scalable internal linking structure
+
+Primary traffic sources:
+
+Match predictions
+Team statistics
+Head-to-head comparisons
+League overviews
+
+---
+
+# Core Page Types
+
+The platform should generate the following page types:
+
+1. Match Pages
+2. Prediction Pages
+3. Team Pages
+4. League Pages
+5. Head-to-Head Pages
+6. Daily Match Hubs
+
+---
+
+# 1. Match Pages
+
+Purpose:
+
+Capture match-specific search traffic.
+
+URL structure:
+
+/match/arsenal-vs-liverpool
+
+Example search queries:
+
+Arsenal vs Liverpool prediction
+Arsenal Liverpool stats
+Arsenal Liverpool lineup
+
+Page content:
+
+Match header
+Tactra prediction
+Match stats
+Team comparison
+Head-to-head
+Lineups
+AI match analysis
+
+Internal links:
+
+Team pages
+League page
+Head-to-head page
+
+---
+
+# 2. Prediction Pages
+
+Purpose:
+
+Capture betting-related searches.
+
+URL structure:
+
+/prediction/arsenal-vs-liverpool
+
+Example queries:
+
+Arsenal vs Liverpool prediction
+Arsenal Liverpool betting tips
+Arsenal Liverpool odds prediction
+
+Content structure:
+
+Tactra prediction model
+Match insights
+Team form
+AI match analysis
+
+These pages may overlap with match pages but focus on prediction intent.
+
+---
+
+# 3. Team Pages
+
+Purpose:
+
+High-volume evergreen traffic.
+
+URL structure:
+
+/team/arsenal
+
+Example queries:
+
+Arsenal stats
+Arsenal form
+Arsenal next match
+
+Content:
+
+Team overview
+Recent matches
+Team form
+Season statistics
+Upcoming fixtures
+
+Internal links:
+
+Match pages
+League page
+
+---
+
+# 4. League Pages
+
+Purpose:
+
+Capture competition-level traffic.
+
+URL structure:
+
+/league/premier-league
+
+Example queries:
+
+Premier League stats
+Premier League matches today
+Premier League predictions
+
+Content:
+
+League table
+Top matches
+Top teams
+League statistics
+
+Internal links:
+
+Team pages
+Match pages
+
+---
+
+# 5. Head-to-Head Pages
+
+Purpose:
+
+Extremely strong SEO traffic driver.
+
+URL structure:
+
+/h2h/arsenal-vs-liverpool
+
+Example queries:
+
+Arsenal vs Liverpool head to head
+Arsenal Liverpool history
+Arsenal Liverpool record
+
+Content:
+
+Historical matches
+Win statistics
+Goals comparison
+
+Internal links:
+
+Match page
+Team pages
+
+---
+
+# 6. Daily Match Hub
+
+Purpose:
+
+Capture daily search intent.
+
+URL structure:
+
+/matches/today
+
+Example queries:
+
+Football matches today
+Premier League matches today
+Soccer fixtures today
+
+Content:
+
+Matches grouped by league
+Top matches highlighted
+Links to match pages
+
+---
+
+# Internal Linking Strategy
+
+Internal linking is critical for SEO authority.
+
+Match pages should link to:
+
+Team pages
+League pages
+Head-to-head pages
+
+Team pages should link to:
+
+Recent matches
+Upcoming matches
+League page
+
+League pages should link to:
+
+Top matches
+Team pages
+
+---
+
+# Content Automation
+
+Most pages should be automatically generated using data feeds.
+
+AI content should generate:
+
+Match insights
+Stat explanations
+Short match previews
+
+Automation allows thousands of pages to be updated daily.
+
+---
+
+# Structured Data (Schema)
+
+Pages should include structured data for search engines.
+
+Match pages:
+
+SportsEvent schema
+
+Team pages:
+
+SportsTeam schema
+
+League pages:
+
+SportsOrganization schema
+
+---
+
+# SEO Keywords Strategy
+
+Target search intents:
+
+Match predictions
+Team statistics
+Head-to-head comparisons
+Match schedules
+
+Example keywords:
+
+Arsenal vs Liverpool prediction
+Bayern vs Dortmund stats
+Barcelona next match
+
+---
+
+# Long-Term SEO Expansion
+
+Additional page types:
+
+Player pages
+Prediction rankings
+Top teams by statistics
+Season summaries
+
+---
+
+# Success Metrics
+
+SEO success will be measured by:
+
+Organic traffic
+Ranking positions for match queries
+CTR from search results
+Indexation rate of match pages
+
+---
